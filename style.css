@@ -4,9 +4,9 @@ body. {
 }
 h1 {
     text-align: center;
-    color: black
+    color: black;
     font-family: 'Arial', sans-serif;
-    font-size: 48px;
+    font-size: 120px;
 }
 p {
     font-family: 'Verdana', sans-serif;
